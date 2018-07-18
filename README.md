@@ -11,6 +11,6 @@ https://github.com/ghowland/web6.0
 
 ## Usage
 ```bash
-go build
-./fuseweb6.0 /path/to/MOUNTPOINT
+go get github.com/bretep/fuseweb6.0
+fuseweb6.0 /path/to/MOUNTPOINT
 ```
