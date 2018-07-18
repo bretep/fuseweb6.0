@@ -1,3 +1,6 @@
+*.iml
+.idea
+fuseweb6.0
 # Binaries for programs and plugins
 *.exe
 *.exe~
